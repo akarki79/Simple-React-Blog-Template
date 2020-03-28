@@ -1,0 +1,12 @@
+#root {
+  height: 100vh;
+}
+body {
+  background-color: #c3bcaa;
+  overflow: hideen;
+}
+.posts-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

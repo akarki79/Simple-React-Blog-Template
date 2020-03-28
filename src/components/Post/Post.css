@@ -1,0 +1,24 @@
+.post-container {
+  background: #e8e3d5;
+  display: flex;
+  flex-direction: column;
+  padding: 2%;
+  margin: 0 1%;
+}
+
+.heading {
+  height: 125px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  width: 100%;
+  height: 200px;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+}
